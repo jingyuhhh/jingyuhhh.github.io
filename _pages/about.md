@@ -90,4 +90,4 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 
 # 💻 Internships
 - *2023.12 - (now)*, AI research intern, Huazhong University of Science and Technology, working under the guidance of <a href="http://wanyao.me/">Prof. Yao Wan </a>.
-- *2024.4 - (now)*, HCI research intern, University of Minnesota, working under the guidance of <a href="https://chenzhutian.org/">Prof. Zhutian Chen </a>.
+
