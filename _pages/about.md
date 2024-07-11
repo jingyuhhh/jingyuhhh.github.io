@@ -34,11 +34,11 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
   - GRE: 159(V), 170(Q), 4(A)
 - Tech
   - LLM Deployment
-  - Web Development(Vue/React, D3, TypeScipt, Flask/FastAPI...)
-  - Design(Figma, PS, AI...)
+  - Web Development(Vue/React, D3, TypeScipt, Nodejs/Flask/FastAPI...)
+  - Learning Design(Figma, PS, AI...)
 
 # 📝 Publications 
-<!--
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ObscurePrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +59,7 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 
 </div>
 </div>
--->
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
