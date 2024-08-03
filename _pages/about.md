@@ -26,7 +26,7 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 -->
 # 💡 Research Interest
 
-- Human Computer Interaction: interactive systems, AR/VR.
+- Human Computer Interaction: interactive systems.
 - LLM-based Agents: tool usage, efficiency and utility.
 
 # 🔨 Skills
@@ -35,7 +35,6 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 - Tech
   - LLM Deployment
   - Web Development(Vue/React, D3, TypeScipt, Nodejs/Flask/FastAPI...)
-  - Learning Design(Figma, PS, AI...)
 
 # 📝 Publications 
 
