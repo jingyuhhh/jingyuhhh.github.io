@@ -68,6 +68,8 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 
 Build the front-end page and complete the color selection algorithm.
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rumorlens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,6 +79,9 @@ Build the front-end page and complete the color selection algorithm.
 Complete data visualization for rumor.
 
 </div>
+</div>
+
+
 
 # 🏆 Honors and Awards
 - *2023.03* Freshman Public Welfare Scholarship.
