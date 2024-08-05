@@ -61,7 +61,7 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 </div>
 
 # Project
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scicolor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scicolor.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SciColor: A website designed to create a color system specifically for scientific display.** [[Website]](https://scicolor.datavizu.app/#/hue)
@@ -71,7 +71,7 @@ Build the front-end page and complete the color selection algorithm.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rumorlens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rumorlens.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media.** 
