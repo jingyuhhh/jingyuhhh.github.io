@@ -35,13 +35,14 @@ Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science a
 - Tech
   - LLM Deployment
   - Web Development(Vue/React, D3, TypeScipt, Nodejs/Flask/FastAPI...)
+  - User Study
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ObscurePrompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-***ObscurePrompt*: Jailbreaking Large Language Models via Obscure Input** [[PDF]](https://arxiv.org/abs/2406.13662) [[Github]](https://github.com/HowieHwong/ObscurePrompt) 
+**ObscurePrompt: Jailbreaking Large Language Models via Obscure Input** [[PDF]](https://arxiv.org/abs/2406.13662) [[Github]](https://github.com/HowieHwong/ObscurePrompt) 
 
 Yue Huang \*, **Jingyu Tang** \*, Dongping Chen \*, Bingda Tang, Yao Wan, Lichao Sun, Xiangliang Zhang
 
@@ -59,20 +60,23 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 </div>
 </div>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# Project
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scicolor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**SciColor: A website designed to create a color system specifically for scientific display.** [[Website]](https://scicolor.datavizu.app/#/hue)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Build the front-end page and complete the color selection algorithm.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/rumorlens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media.** 
+
+Complete data visualization for rumor.
+
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🏆 Honors and Awards
 - *2023.03* Freshman Public Welfare Scholarship.
