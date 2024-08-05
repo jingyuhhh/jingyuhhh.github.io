@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science and Technology(HUST).
+Hi, I’m Jingyu Tang, a sophomore student from Huazhong University of Science and Technology(HUST). My research interest is mainly building interactive systems, focusing on how humans and AI can collaboratively enhance each other's capabilities. 
+
+I like engaging in interdisciplinary exchanges and collaborations with all fields. Feel free to email me if you are interested in collaborating or discussing research ideas. I look forward to generating thought-provoking discussions!
 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
-# 💡 Research Interest
-
-- Human Computer Interaction: interactive systems.
-- LLM-based Agents: tool usage, efficiency and utility.
 
 # 🔨 Skills
 - Language
@@ -60,13 +58,14 @@ Dongping Chen \*, Yue Huang \*, Siyuan Wu \*, **Jingyu Tang** \*, Liuyi Chen, Yi
 </div>
 </div>
 
-# Project
+# 🛠️ Project
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/scicolor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SciColor: A website designed to create a color system specifically for scientific display.** [[Website]](https://scicolor.datavizu.app/#/hue)
 
-Build the front-end page and complete the color selection algorithm.
+- Build the webpage using Vue.js. 
+- Complete the color selection algorithm, which includes generating random colors using RGB, generating random colors using HSL, uniformly distributing colors using force-vector repulsion or K-means clustering algorithm, smoothly transitioning between multiple color nodes using Bezier curve interpolation, and correcting brightness to achieve linear variation.
 
 </div>
 </div>
@@ -76,7 +75,10 @@ Build the front-end page and complete the color selection algorithm.
 
 **RumorLens: Interactive Analysis and Validation of Suspected Rumors on Social Media.** 
 
-Complete data visualization for rumor.
+Construct a complete data visualization for rumor analysis, which includes:
+- Building a map of China using Echarts.
+- Creating a stream graph, projection graph, and propagation graph using D3.js.
+- The entire webpage is built using Vue.js.
 
 </div>
 </div>
